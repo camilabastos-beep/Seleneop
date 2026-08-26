@@ -1,0 +1,6 @@
+{
+  "name": "SELENE | Transparaná - Psicologia Ocupacional",
+  "description": "Plataforma de apoio à Psicologia Ocupacional para motoristas carreteiros: Avaliação Biopsicossocial, Cronotipo Horne-Östberg, Intervenções em Fadiga e Pareceres Técnicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
